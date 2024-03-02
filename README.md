@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Roblox Script**
 
-<h3 align="left">YouTube Channel:</h3>
+<h3 align="left">YouTube</h3>
 <p align="left">
 <a href="https://www.youtube.com/@RelzBlox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@relzblox" height="30" width="40" /></a>
 </p>
